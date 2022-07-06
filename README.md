@@ -1,1 +1,1 @@
-# First-App-React
+# Simple styled component with React
